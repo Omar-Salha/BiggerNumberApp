@@ -17,23 +17,22 @@ The following **required** functionality is completed:
 The following **extensions** are implemented:
 
 * [x] Custom colors selected
-* [ ] List anything else that you did to improve the app functionality or design!
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://j.gifs.com/gZ0RQZ.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![](https://github.com/Omar-Salha/BiggerNumberApp/blob/main/BiggerNumbersAppDemo.gif)
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+N/A
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2023] [Omar Salha]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
